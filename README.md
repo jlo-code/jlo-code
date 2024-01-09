@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Security Engineer
 -----------------
 
-I am a security engineer & I enjoy writing homemade python scripts.
+I bake homemade scripts.
 
 *   🧠  I'm learning python scripting for the purpose of building security tools### Skills 
 <p align="left">
