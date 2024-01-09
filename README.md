@@ -1,13 +1,3 @@
-Hi 👋 My name is J-Lo
-=====================
-
-Security Engineer
------------------
-
-I am a security engineer & I enjoy writing homemade python scripts.
-
-* 🧠  I'm learning python scripting for the purpose of building security tools
-
 ### 
 Skills
 
